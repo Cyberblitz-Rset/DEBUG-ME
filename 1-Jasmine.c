@@ -8,7 +8,7 @@
 void main()
 {
     char message[] = "#####  #   #    #    #   #  #   #      #   #  #    #   #   # #   ##  #  # #        #   #  #    #####  #####  # # #  ##         #   #  #    #   #  #   #  #  ##  # #        #   #  #    #   #  #   #  #   #  #   #      #####";
-    int j=0, no_per_line = 22;
+    int j=0, no_per_line = 44;
     for(j=0;j<strlen(message);j++)
     {
         printf("%c",message[j]);
