@@ -7,8 +7,8 @@
 #include<stdio.h>
 void main()
 {
-    int key1 = 53, key2;
-    const int checker =813509;
+    int key1 = 67, key2;
+    const int checker =812509;
     printf("Tell me the Access-Code : ");
     scanf("%d",&key2);
     if(key1*key2 == checker && key1 != 1 && key2 != 1)
