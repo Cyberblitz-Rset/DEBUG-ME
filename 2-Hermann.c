@@ -10,7 +10,7 @@
 #include<stdio.h>
 void main()
 {
-    int offset = 7,i=0;
+    int offset = 4,i=0;
     char message[] =  "Gpswmrk$hs{r$jsviziv$11$epp$xli$fiwx$11$ksshf}i";
     for(i=0;message[i]!='\0';i++)
     {
